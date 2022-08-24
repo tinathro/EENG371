@@ -1,1 +1,4 @@
 My first test file with git.
+My first test file with git.
+My first test file with git.
+My first test file with git.
